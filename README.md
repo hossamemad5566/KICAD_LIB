@@ -1,0 +1,2 @@
+# KICAD_LIB
+Kicad_LIBRARIES
