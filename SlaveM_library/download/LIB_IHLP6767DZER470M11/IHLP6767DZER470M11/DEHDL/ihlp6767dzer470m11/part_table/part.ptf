@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'IHLP6767DZER470M11'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "IHLP6767DZER470M11" (!) = "", "IHLP6767DZER470M11", "Other", "70-IHLP6767DZER470M1", "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/IHLP6767DZER470M11?qs=e2ByEPnK0IgJ3lh9QXlbaQ%3D%3D", "IHLP6767DZER470M11", "https://www.arrow.com/en/products/ihlp6767dzer470m11/vishay?utm_currency=USD&region=nac", "Fixed Inductors 47uH 20%", "https://componentsearchengine.com/Datasheets/2/IHLP6767DZER470M11.pdf", "4 mm"
+END_PART
+
+END.

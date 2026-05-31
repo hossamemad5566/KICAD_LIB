@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=01550900DR
+PartCategory=Fuse
+PackageCategory=Other
+PinCount=2
+Version=1.2
+Released=2023-01-17 02:36:13
+Downloaded=2026-02-10 19:03:31
+3D=Y

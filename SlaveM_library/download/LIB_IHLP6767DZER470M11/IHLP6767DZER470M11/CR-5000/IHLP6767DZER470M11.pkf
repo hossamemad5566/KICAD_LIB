@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "IHLP6767DZER470M11"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "IHLP6767DZER470M11")
+        (spec "default")
+    )
+)

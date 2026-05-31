@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'NX3225GA_25MHZ_EXS00A_CG06750'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "NDK", "NX3225GA 25MHZ EXS00A-CG06750" (!) = "", "NX3225GA25MHZEXS00ACG06750", "Other", "", "", "", "", "CRYSTAL 25MHZ 8PF SMD", "https://www.ndk.com/images/products/catalog/c_NX3225GA-2_e.pdf", "0.9 mm"
+END_PART
+
+END.

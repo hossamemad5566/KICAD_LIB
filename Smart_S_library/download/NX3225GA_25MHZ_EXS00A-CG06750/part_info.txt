@@ -1,0 +1,9 @@
+Manufacturer=NDK
+PartNumber=NX3225GA 25MHZ EXS00A-CG06750
+PartCategory=Crystal or Oscillator
+PackageCategory=Other
+PinCount=4
+Version=1.3
+Released=2022-10-26 13:25:33
+Downloaded=2026-02-19 19:51:48
+3D=Y

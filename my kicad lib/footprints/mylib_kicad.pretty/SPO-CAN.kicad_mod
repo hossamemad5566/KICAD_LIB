@@ -1,0 +1,241 @@
+(footprint "SPO-CAN"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 21.8454 -16.5448 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7217f422-6f6e-4493-8dd6-95ae49b1e5d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SPI-CAN"
+		(at 20.3454 -15.5448 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d4214f04-d040-428b-a47a-af4d6f2d0001")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5ec7371-d302-425a-a704-ef6e164b2017")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68566792-44f1-4108-a277-52337bb1a2c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e64fcf33-875a-4e5c-98bc-85354d8f732a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -27.9)
+		(end 0 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a6ab1a78-4297-4761-9bb9-00d9dfa2832c")
+	)
+	(fp_line
+		(start 0 0)
+		(end 41 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "50fd9b46-25df-4312-84f6-f494e0eef9c9")
+	)
+	(fp_line
+		(start 41 -27.9)
+		(end 0 -27.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a8d62074-09cd-45f0-87fa-b309bb795a33")
+	)
+	(fp_line
+		(start 41 -27.9)
+		(end 41 0)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "afe349ad-ebad-42dc-a3d4-78db04dbd101")
+	)
+	(fp_rect
+		(start 0 -22.86)
+		(end 3.302 -5.08)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "17aae6e3-90e9-4851-b9c9-d11a7d5f761a")
+	)
+	(fp_rect
+		(start 35.687 -17.5514)
+		(end 39.0398 -10.4648)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "ef18b6a2-251a-49d0-81a9-70eac17ac8c5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 18.3454 -14.0448 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f16a7081-7481-415e-aa7b-5a3d265a812c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 1.651 -21.59 270)
+		(size 1.524 3)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2726acee-0693-4be2-88ae-664e7314ac06")
+	)
+	(pad "2" thru_hole oval
+		(at 1.651 -19.05 270)
+		(size 1.524 3)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9f89475d-dc45-49c0-b584-57f11419f3a3")
+	)
+	(pad "3" thru_hole oval
+		(at 1.651 -16.51 270)
+		(size 1.524 3)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3514397f-d463-402d-8280-48d9bf634f57")
+	)
+	(pad "4" thru_hole oval
+		(at 1.651 -13.97 270)
+		(size 1.524 3)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "af107a13-595d-48ea-801b-3ebfa29a3514")
+	)
+	(pad "5" thru_hole oval
+		(at 1.651 -11.43 270)
+		(size 1.524 3)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1c56c854-2cb1-41f1-ba5d-6b1d572e5928")
+	)
+	(pad "6" thru_hole oval
+		(at 1.651 -8.89 270)
+		(size 1.524 3)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "68a9a298-9b9d-428a-aae1-0815a317203b")
+	)
+	(pad "7" thru_hole oval
+		(at 1.651 -6.35 270)
+		(size 1.524 3)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7529639f-93e5-45a3-afec-59dee21a07ed")
+	)
+	(pad "8" thru_hole oval
+		(at 37.3634 -16.51 90)
+		(size 1.524 3)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f0dad641-828c-4409-8e95-286fa5e683cf")
+	)
+	(pad "9" thru_hole oval
+		(at 37.3634 -11.43 90)
+		(size 1.524 3)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "86b0a206-ba59-4d5b-930b-f7e13606f951")
+	)
+	(group ""
+		(uuid "59c6942c-9983-46eb-9e93-6948c22410a8")
+		(members "86b0a206-ba59-4d5b-930b-f7e13606f951" "ef18b6a2-251a-49d0-81a9-70eac17ac8c5"
+			"f0dad641-828c-4409-8e95-286fa5e683cf"
+		)
+	)
+	(group ""
+		(uuid "629383b9-3391-4b27-a0d0-b96caea03fc2")
+		(members "17aae6e3-90e9-4851-b9c9-d11a7d5f761a" "1c56c854-2cb1-41f1-ba5d-6b1d572e5928"
+			"2726acee-0693-4be2-88ae-664e7314ac06" "3514397f-d463-402d-8280-48d9bf634f57"
+			"68a9a298-9b9d-428a-aae1-0815a317203b" "7529639f-93e5-45a3-afec-59dee21a07ed"
+			"9f89475d-dc45-49c0-b584-57f11419f3a3" "af107a13-595d-48ea-801b-3ebfa29a3514"
+		)
+	)
+	(model "C:/Users/inthossamemad/Downloads/Compressed/mcp2515-can-spi-module-1.snapshot.3/MCP2515 CAN_SPI.stp"
+		(offset
+			(xyz 43 20.25 -3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

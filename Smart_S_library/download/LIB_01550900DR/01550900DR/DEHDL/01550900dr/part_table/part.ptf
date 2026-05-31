@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '01550900DR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "01550900DR" (!) = "", "01550900DR", "Other", "576-01550900DR", "https://www.mouser.co.uk/ProductDetail/Littelfuse/01550900DR?qs=DRkmTr78QATmF52QRk2Q4g%3D%3D", "Fuse Holder ACS NANO FUSEHLDR TAPE & REEL", "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=a9f9b3bc-4d54-4943-931a-8c4669b10f93&filename=littelfuse-fuse-block-1550900-datasheet", "3.81 mm"
+END_PART
+
+END.

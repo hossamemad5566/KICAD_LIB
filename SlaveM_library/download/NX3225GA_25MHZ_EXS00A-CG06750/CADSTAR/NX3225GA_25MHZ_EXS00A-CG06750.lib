@@ -1,0 +1,18 @@
+.NX3225GA_25MHZ_EXS00A-CG06750 :1 ;CRYSTAL 25MHZ 8PF SMD
+NX3225GA25MHZEXS00ACG06750
+*STM Y
+*NGS
+*PLB 1="CRYSTAL_1" 2="GND_1" 3="CRYSTAL_2" 4="GND_2"
+*MXP 4
+*DFN NX3225GA_25MHZ_EXS00A-CG06750
+~!Manufacturer_Name (NDK)
+~!Manufacturer_Part_Number (NX3225GA 25MHZ EXS00A-CG06750)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.ndk.com/images/products/catalog/c_NX3225GA-2_e.pdf)
+~!Height (0.9mm)
+~!3D_Model (NX3225GA_25MHZ_EXS00A-CG06750)
+NX3225GA_25MHZ_EXS00A-CG06750
+1.1!U 2.1!U 3.1!U 4.1!U 

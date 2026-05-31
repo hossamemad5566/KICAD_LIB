@@ -1,0 +1,236 @@
+(footprint "NX3225GA25MHZEXS00ACG06750"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "3.2x2.5x0.75mm")
+	(tags "Crystal or Oscillator")
+	(property "Reference" "Y**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "bf0d422d-fc70-4cb5-a2dd-1706772fb542")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "NX3225GA25MHZEXS00ACG06750"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c71848fc-dcf8-43b1-b983-dea319b44ef3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "951b525a-53a6-4244-8327-4d90fd5935b7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b7f947b3-d31b-4c3b-b3cb-d047cde0e5bd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "53e34281-3a43-4446-96fd-f7c17bcee679")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.4 0.8)
+		(end -2.4 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9f80c505-c58a-4b54-a5e2-d5007015b3e9")
+	)
+	(fp_line
+		(start -2.3 0.8)
+		(end -2.3 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4f562676-a3bc-434f-98d6-0ef93ae69293")
+	)
+	(fp_arc
+		(start -2.4 0.8)
+		(mid -2.35 0.75)
+		(end -2.3 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2ed6fa3b-d326-4446-bcb1-e09c59e08de3")
+	)
+	(fp_arc
+		(start -2.3 0.8)
+		(mid -2.35 0.85)
+		(end -2.4 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9d98f91c-1e83-486a-a49b-efe9b450f329")
+	)
+	(fp_line
+		(start -2.8 -2.4)
+		(end 2.8 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4968859a-e25c-4b47-ad64-6823a7946bc2")
+	)
+	(fp_line
+		(start -2.8 2.4)
+		(end -2.8 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d7b20769-34fc-4233-aea9-85a9c4e07d37")
+	)
+	(fp_line
+		(start 2.8 -2.4)
+		(end 2.8 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "72c30514-f6a2-4cc5-b72d-1ce46363bb71")
+	)
+	(fp_line
+		(start 2.8 2.4)
+		(end -2.8 2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e0049502-b78c-4fb6-a3cb-364159d096e6")
+	)
+	(fp_line
+		(start -1.6 -1.25)
+		(end 1.6 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e5c2194e-7da4-4815-876a-69b9d7caeed9")
+	)
+	(fp_line
+		(start -1.6 1.25)
+		(end -1.6 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "db5269ef-4fe5-4ce6-a35a-e79d2bb220d8")
+	)
+	(fp_line
+		(start 1.6 -1.25)
+		(end 1.6 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "05025f51-ba0b-4950-9728-b0b74afbeeb6")
+	)
+	(fp_line
+		(start 1.6 1.25)
+		(end -1.6 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cf65082f-a1d4-4123-9185-b8c82bc3f568")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "36864cc3-7dfa-4fb0-aaf1-d7ae9ddf1b68")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.1 0.8 90)
+		(size 1.2 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "01d37f80-cca4-4c82-b7eb-2d6d38a15185")
+	)
+	(pad "2" smd rect
+		(at 1.1 0.8 90)
+		(size 1.2 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "9b36996c-f882-438a-b307-8a3e19b65726")
+	)
+	(pad "3" smd rect
+		(at 1.1 -0.8 90)
+		(size 1.2 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "d4749814-4455-45a4-935c-52dac835a1b5")
+	)
+	(pad "4" smd rect
+		(at -1.1 -0.8 90)
+		(size 1.2 1.4)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "6e8b498e-a4e8-4dea-a67f-1e7d2caf000e")
+	)
+	(model "D:/freelance/Industrial-Datalogger/industrial_datalogger/library/download/NX3225GA_25MHZ_EXS00A-CG06750/3D/NX3225GA_25MHZ_EXS00A-CG06750.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,185 @@
+(footprint "XL4015"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -0.03 -2.25 0)
+		(layer "F.SilkS")
+		(uuid "9c8b1ad1-70c0-4913-867f-67e422398054")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "XL4015"
+		(at 0.59 -3.41 0)
+		(layer "F.Fab")
+		(uuid "7c639a79-d065-400e-93c8-8d522379cbaf")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95524fdd-034d-48d6-8655-e8f3890e65d0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "109ffeb2-d09d-4687-b666-a59c24ef847d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a21c05f2-2095-4520-b410-ccdc35d102ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2 -24.25)
+		(end -2 1.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ea8fec4a-cb25-4911-be78-8e5cb353224e")
+	)
+	(fp_line
+		(start -2 1.75)
+		(end 49 1.75)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "26532f29-6f7e-4dc0-8432-7ebdb9909dcf")
+	)
+	(fp_line
+		(start 49 -24.25)
+		(end -2 -24.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ec1981c9-522c-4f6b-86d8-b30b3c117c46")
+	)
+	(fp_line
+		(start 49 1.75)
+		(end 49 -24.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f1067bc2-dcd8-45eb-a76e-361a06726da2")
+	)
+	(fp_text user "OUT+"
+		(at 41.57 -22.755 0)
+		(layer "F.SilkS")
+		(uuid "995f26fc-3f7e-4cde-a9d6-05437ad9ad6b")
+		(effects
+			(font
+				(size 1.72 1.72)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "IN+"
+		(at 4.42 -22.785 0)
+		(layer "F.SilkS")
+		(uuid "b83a2467-e84f-4a7a-93fc-2bfc222347b4")
+		(effects
+			(font
+				(size 1.72 1.72)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "DC-DC"
+		(at 24.384 -10.922 0)
+		(layer "F.SilkS")
+		(uuid "fe8afa26-29e9-4bbe-9ab1-5f9915f50056")
+		(effects
+			(font
+				(size 5.08 5.08)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "IN+" thru_hole rect
+		(at 0 -22.5)
+		(size 3.216 3.216)
+		(drill 2.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "f0b4bd74-667d-41c1-ab9a-45d2ab30dc0e")
+	)
+	(pad "IN-" thru_hole rect
+		(at 0 0)
+		(size 3.216 3.216)
+		(drill 2.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "a745deb9-c319-45b1-9b21-8f285dc0ea12")
+	)
+	(pad "OUT+" thru_hole rect
+		(at 47 -22.5)
+		(size 3.216 3.216)
+		(drill 2.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "2671b0b1-b97f-41e4-9ec2-aed350e9d4aa")
+	)
+	(pad "OUT-" thru_hole rect
+		(at 47 0)
+		(size 3.216 3.216)
+		(drill 2.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "3fd95bef-13d4-4847-9a80-3588afad1f82")
+	)
+	(model "D:/kicad/KiCAD_projects_seitech/libraries/3d models/XL4015 StepDown DC-DC 5A (CC-CV) v1.step"
+		(offset
+			(xyz -2 -1.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=IHLP6767DZER470M11
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=2.2
+Released=2021-06-20 17:49:36
+Downloaded=2026-02-19 23:22:25
+3D=Y

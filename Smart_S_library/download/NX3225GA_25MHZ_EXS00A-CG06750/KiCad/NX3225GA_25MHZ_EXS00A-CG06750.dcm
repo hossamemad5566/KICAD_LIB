@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NX3225GA_25MHZ_EXS00A-CG06750
+D CRYSTAL 25MHZ 8PF SMD
+K
+F https://www.ndk.com/images/products/catalog/c_NX3225GA-2_e.pdf
+$ENDCMP
+#
+#End Doc Library

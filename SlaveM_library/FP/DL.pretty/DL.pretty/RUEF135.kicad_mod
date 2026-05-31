@@ -1,0 +1,246 @@
+(footprint "RUEF135"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "RUEF135-2")
+	(tags "Fuse")
+	(property "Reference" "F**"
+		(at 2.525 1 0)
+		(layer "F.SilkS")
+		(uuid "36ed2f29-7b26-4be7-a7ff-4005a05e8252")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "RUEF135"
+		(at 2.525 1 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "cd079b07-fa75-4f5f-b023-f15cbab5232c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee10e581-ea45-488f-87d1-9d491f04655a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6ccce223-af92-4bde-9899-a7713078edda")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4c69c888-c294-461b-bd5e-e2d86de90c19")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.925 -0.5)
+		(end -1.925 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "866437eb-8f47-4482-8d6f-83c54a72ada5")
+	)
+	(fp_line
+		(start -1.925 2.5)
+		(end 4.325 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "03821fc9-a8ad-427b-9070-278915c2727a")
+	)
+	(fp_line
+		(start -0.775 -0.5)
+		(end -1.925 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "532fc75a-35fa-4c61-9a17-63dbc3f2db71")
+	)
+	(fp_line
+		(start 0.725 -0.5)
+		(end 6.975 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f3492f5a-9ae6-4cb1-b2d6-59ee093339fa")
+	)
+	(fp_line
+		(start 6.975 -0.5)
+		(end 6.975 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3c672e20-836f-423c-ace9-c19b938e5d64")
+	)
+	(fp_line
+		(start 6.975 2.5)
+		(end 5.825 2.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a147fb43-bc42-4c21-9b47-d8f975f7ed26")
+	)
+	(fp_line
+		(start -2.925 -1.5)
+		(end 7.975 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8b2dd8b5-69ba-40eb-a26a-afadc9b712c8")
+	)
+	(fp_line
+		(start -2.925 3.5)
+		(end -2.925 -1.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5cbad196-b2c2-4ca9-8569-f539e025b935")
+	)
+	(fp_line
+		(start 7.975 -1.5)
+		(end 7.975 3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9dcdc903-dfc6-4649-bd57-b59e6a1595b0")
+	)
+	(fp_line
+		(start 7.975 3.5)
+		(end -2.925 3.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9a93cd08-2d47-4dd7-8d9f-4ca2098178a0")
+	)
+	(fp_line
+		(start -1.925 -0.5)
+		(end 6.975 -0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6511a021-aa46-46ee-ade3-c7801a27c0f3")
+	)
+	(fp_line
+		(start -1.925 2.5)
+		(end -1.925 -0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d3e3296b-4120-4230-9689-455c56cafb87")
+	)
+	(fp_line
+		(start 6.975 -0.5)
+		(end 6.975 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "880af072-199c-40bf-9e6f-97b011bcbdcd")
+	)
+	(fp_line
+		(start 6.975 2.5)
+		(end -1.925 2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5dbecab5-40ee-460b-a573-0a1fbe756075")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.525 1 0)
+		(layer "F.Fab")
+		(uuid "0060ed6f-6395-4d0c-8fee-0c925d604d7d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.217 1.217)
+		(drill 0.71)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0256f98d-bedf-4231-a8ea-89bc9df43e38")
+	)
+	(pad "2" thru_hole circle
+		(at 5.05 2)
+		(size 1.217 1.217)
+		(drill 0.71)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ee716fac-1506-4dfe-a481-cea6355b3e6a")
+	)
+	(model "D:/freelance/Industrial-Datalogger/industrial_datalogger/library/download/LIB_RUEF135/RUEF135/3D/RUEF135.stp"
+		(offset
+			(xyz 2.539999924 -0.999999985 7.199999701)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_889015"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-06-20-17:49:36)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "IHLP6767DZER470M11")
+)
+
+
+(pinAssign "ECS_889015"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-06-20-17:49:36)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_889015")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "IHLP6767DZER470M11")
+)
+
+
+(part "IHLP6767DZER470M11"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-06-20-17:49:36)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "IHLP6767DZER470M11")
+    (pinAssignRef "ECS_889015")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "L")
+    (property "description" "Fixed Inductors 47uH 20%")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "IHLP6767DZER470M11")
+    (property "Mouser_Part_Number" "70-IHLP6767DZER470M1")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/IHLP6767DZER470M11?qs=e2ByEPnK0IgJ3lh9QXlbaQ%3D%3D")
+    (property "Arrow_Part_Number" "IHLP6767DZER470M11")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/ihlp6767dzer470m11/vishay?utm_currency=USD&region=nac")
+    (property "Datasheet_Link" "https://componentsearchengine.com/Datasheets/2/IHLP6767DZER470M11.pdf")
+    (property "compAreaTopHeight" 4)
+)
+
+

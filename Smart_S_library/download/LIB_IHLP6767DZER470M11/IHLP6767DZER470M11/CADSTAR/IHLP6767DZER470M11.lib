@@ -1,0 +1,18 @@
+.IHLP6767DZER470M11 :1 ;Fixed Inductors 47uH 20%
+IHLP6767DZER470M11
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN IHLP6767DZER470M11
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (IHLP6767DZER470M11)
+~!Mouser Part Number (70-IHLP6767DZER470M1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/IHLP6767DZER470M11?qs=e2ByEPnK0IgJ3lh9QXlbaQ%3D%3D)
+~!Arrow Part Number (IHLP6767DZER470M11)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/ihlp6767dzer470m11/vishay?utm_currency=USD&region=nac)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/2/IHLP6767DZER470M11.pdf)
+~!Height (4mm)
+~!3D_Model (IHLP6767DZER470M11)
+IHLP6767DZER470M11
+1.1!U 2.1!U 

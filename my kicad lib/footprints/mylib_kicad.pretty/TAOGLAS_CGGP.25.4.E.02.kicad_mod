@@ -1,0 +1,476 @@
+(footprint "TAOGLAS_CGGP.25.4.E.02"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "GPS/GLONASS/GALILEO Dual-Band Patch Antenna 25*25*4mm")
+	(property "Reference" "REF**"
+		(at 0 -14.96 0)
+		(layer "F.SilkS")
+		(uuid "d55033f9-2f90-4ab0-b571-fd782ca99df9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TAOGLAS_CGGP.25.4.E.02"
+		(at 0 14.79 0)
+		(layer "F.Fab")
+		(uuid "796237db-c925-4213-bf6e-bdc44c787b2a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "69a354f7-0662-4c59-a2c6-6f1ed7a4f8a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7560e1b8-75e7-4bdf-95fe-fd8262ca5f91")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2313904-c382-40f8-961d-21e11ec4e9c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_line
+		(start -12.75 8.5)
+		(end -12.75 -8.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d247b093-0ba3-4df0-8e58-1b70fc74801d")
+	)
+	(fp_line
+		(start -8.5 -12.75)
+		(end 8.5 -12.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7a3556f2-7da7-4c88-b3c8-a08a8a0febeb")
+	)
+	(fp_line
+		(start -8.5 12.75)
+		(end 8.5 12.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "94592e85-0bee-456e-94bd-56ee6006a33a")
+	)
+	(fp_line
+		(start 12.75 8.5)
+		(end 12.75 -8.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5a871270-4c3c-44e0-9de8-5dbb91a20c44")
+	)
+	(fp_arc
+		(start -12.75 -8.5)
+		(mid -11.505204 -11.505204)
+		(end -8.5 -12.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d52a28e5-32b5-42a6-84c6-f38a766e1e51")
+	)
+	(fp_arc
+		(start -8.5 12.75)
+		(mid -11.505204 11.505204)
+		(end -12.75 8.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "65ecd2a8-195e-40d2-af9c-e24411825297")
+	)
+	(fp_arc
+		(start 8.5 -12.75)
+		(mid 11.505204 -11.505204)
+		(end 12.75 -8.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8e56d30c-6612-469f-821e-de1ea43dcd73")
+	)
+	(fp_arc
+		(start 12.75 8.5)
+		(mid 11.505204 11.505204)
+		(end 8.5 12.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "890a32d3-863e-4280-a880-3bfd52f3a081")
+	)
+	(fp_line
+		(start -12.5 8.5)
+		(end -12.5 -8.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.3")
+		(uuid "157215be-8320-4a6d-8622-75086626d277")
+	)
+	(fp_line
+		(start -8.5 -12.5)
+		(end 8.5 -12.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.3")
+		(uuid "3f2d2705-ea24-417b-874e-7b5a97fe8dad")
+	)
+	(fp_line
+		(start -8.5 12.5)
+		(end 8.5 12.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.3")
+		(uuid "d2fbf3b5-89a7-4641-8195-dbdfbc532315")
+	)
+	(fp_line
+		(start 12.5 8.5)
+		(end 12.5 -8.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.3")
+		(uuid "58e0fb19-9c23-4970-99b0-8e89732f6900")
+	)
+	(fp_arc
+		(start -12.5 -8.5)
+		(mid -11.328427 -11.328427)
+		(end -8.5 -12.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.3")
+		(uuid "290aa86d-c25d-4a9d-b29d-389dd91ad362")
+	)
+	(fp_arc
+		(start -8.5 12.5)
+		(mid -11.328427 11.328427)
+		(end -12.5 8.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.3")
+		(uuid "59dc06e4-e8b6-46da-bd3e-34a9a2503731")
+	)
+	(fp_arc
+		(start 8.5 -12.5)
+		(mid 11.328427 -11.328427)
+		(end 12.5 -8.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.3")
+		(uuid "d384b685-c1cd-4b66-80b5-00bd7154e6cc")
+	)
+	(fp_arc
+		(start 12.5 8.5)
+		(mid 11.328427 11.328427)
+		(end 8.5 12.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.3")
+		(uuid "9faf9c3f-48e7-45ec-b154-b1975ac3d8f4")
+	)
+	(fp_text user "All Other Layers Copper Cutout = 3mm"
+		(at 0.08 5.44749 0)
+		(unlocked yes)
+		(layer "Dwgs.User")
+		(uuid "1b629a0d-4d21-4e76-82e1-da4f4d75a5c1")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.08)
+			)
+		)
+	)
+	(fp_text user "Bottom Layer Copper Cutout = 3.5mm"
+		(at 0.08 4.69749 0)
+		(unlocked yes)
+		(layer "Dwgs.User")
+		(uuid "7bd8b098-50af-4cab-bbbe-11a4f88b02b2")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.08)
+			)
+		)
+	)
+	(fp_text user "FEED"
+		(at 2.2 2.53534 0)
+		(unlocked yes)
+		(layer "Dwgs.User")
+		(uuid "ef773f18-d017-42df-aacb-e2525b9bfe23")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+			(justify left)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.2 -0.13127 0)
+		(unlocked yes)
+		(layer "User.3")
+		(uuid "d591704f-d5f8-49ad-9e2b-2ab203209458")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+			)
+		)
+	)
+	(fp_text_box "Please see datasheet for further information."
+		(start -9.06043 15.22213)
+		(end 8.88043 16.358)
+		(layer "Dwgs.User")
+		(uuid "2fdfa250-e669-4c27-9191-41682f2c3698")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+			(justify top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(fp_text_box "CENTER ANTENNA IN 70mm x 70mm COPPER PLANE (ALL LAYERS)"
+		(start -11.07968 13.152)
+		(end 11.45968 14.28787)
+		(layer "Dwgs.User")
+		(uuid "32498190-b924-4ad5-a9ef-b77322b65659")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+			(justify top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(fp_text_box "CENTER ANTENNA IN 70mm x 70mm COPPER PLANE (ALL LAYERS)"
+		(start -11.26968 -13.86787)
+		(end 11.26968 -12.732)
+		(layer "Dwgs.User")
+		(uuid "377e4f9c-4b51-4a3e-8684-d6a152146bcc")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+			(justify top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(fp_text_box "CENTER ANTENNA IN 70mm x 70mm COPPER PLANE (ALL LAYERS)"
+		(start 13.86787 -11.26968)
+		(end 12.732 11.26968)
+		(angle 270)
+		(layer "Dwgs.User")
+		(uuid "79e47bf1-b6a1-4667-8ad5-faac59c13c3d")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+			(justify top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(fp_text_box "CGGP.25.4.E.02 Footprint"
+		(start -9.37043 16.03884)
+		(end 8.57043 17.308)
+		(layer "Dwgs.User")
+		(uuid "7c25b036-d7d3-48c7-96c7-f3658744aaec")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+			(justify top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(fp_text_box "CENTER ANTENNA IN 70mm x 70mm COPPER PLANE (ALL LAYERS)"
+		(start -13.86787 11.26968)
+		(end -12.732 -11.26968)
+		(angle 90)
+		(layer "Dwgs.User")
+		(uuid "de4426f7-c0d3-415d-b85e-4b166515e5b1")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+			(justify top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 2.5)
+		(size 1.2 1.2)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1)
+		(solder_paste_margin -2147.48364)
+		(thermal_bridge_angle 90)
+		(uuid "05958866-1c3a-4546-87e3-88a64560633d")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F.Cu" "In1.Cu" "In2.Cu" "In3.Cu" "In4.Cu" "In5.Cu" "In6.Cu" "In7.Cu"
+			"In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu" "In15.Cu"
+			"In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu" "In22.Cu"
+			"In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu" "In29.Cu"
+			"In30.Cu" "B.Cu"
+		)
+		(uuid "418b2dc5-aa3a-40bd-94cd-b84dc3225b44")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 0 1) (xy 0.14774 1) (xy 0.43753 1.05764) (xy 0.71051 1.17072) (xy 0.95619 1.33487) (xy 1.16512 1.5438)
+				(xy 1.32928 1.78948) (xy 1.44235 2.06247) (xy 1.5 2.35226) (xy 1.5 2.5) (xy 1.5 2.64774) (xy 1.44235 2.93753)
+				(xy 1.32928 3.21051) (xy 1.16512 3.45619) (xy 0.95619 3.66512) (xy 0.71051 3.82928) (xy 0.43753 3.94235)
+				(xy 0.14774 4) (xy 0 4) (xy -0.14774 4) (xy -0.43753 3.94235) (xy -0.71051 3.82928) (xy -0.95619 3.66512)
+				(xy -1.16512 3.45619) (xy -1.32928 3.21051) (xy -1.44235 2.93753) (xy -1.5 2.64774) (xy -1.5 2.5)
+				(xy -1.5 2.35226) (xy -1.44235 2.06247) (xy -1.32928 1.78948) (xy -1.16512 1.5438) (xy -0.95619 1.33487)
+				(xy -0.71051 1.17072) (xy -0.43753 1.05764) (xy -0.14774 1)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "B.Cu")
+		(uuid "8a24388f-5030-43cf-890f-69612c16f5aa")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 0 0.75) (xy 0.17236 0.75) (xy 0.51045 0.81725) (xy 0.82893 0.94917) (xy 1.11556 1.14069) (xy 1.35931 1.38444)
+				(xy 1.55083 1.67106) (xy 1.68275 1.98954) (xy 1.75 2.32764) (xy 1.75 2.5) (xy 1.75 2.67236) (xy 1.68275 3.01045)
+				(xy 1.55083 3.32893) (xy 1.35931 3.61556) (xy 1.11556 3.85931) (xy 0.82893 4.05083) (xy 0.51045 4.18275)
+				(xy 0.17236 4.25) (xy 0 4.25) (xy -0.17236 4.25) (xy -0.51045 4.18275) (xy -0.82893 4.05083) (xy -1.11556 3.85931)
+				(xy -1.35931 3.61556) (xy -1.55083 3.32893) (xy -1.68275 3.01045) (xy -1.75 2.67236) (xy -1.75 2.5)
+				(xy -1.75 2.32764) (xy -1.68275 1.98954) (xy -1.55083 1.67106) (xy -1.35931 1.38444) (xy -1.11556 1.14069)
+				(xy -0.82893 0.94917) (xy -0.51045 0.81725) (xy -0.17236 0.75)
+			)
+		)
+	)
+)

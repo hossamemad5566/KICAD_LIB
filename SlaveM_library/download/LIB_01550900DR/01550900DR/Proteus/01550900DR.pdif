@@ -1,0 +1,116 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "01550900DR"
+   (description "Fuse Holder ACS NANO FUSEHLDR TAPE & REEL")
+   (family "FUS")
+   (package "01550900DR")
+   (attribute "Datasheet Link" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=a9f9b3bc-4d54-4943-931a-8c4669b10f93&filename=littelfuse-fuse-block-1550900-datasheet")
+   (attribute "Geometry.Height" "3.81mm")
+   (attribute "Mouser Part Number" "576-01550900DR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/01550900DR?qs=DRkmTr78QATmF52QRk2Q4g%3D%3D")
+   (attribute "Manufacturer_Name" "LITTELFUSE")
+   (attribute "Manufacturer_Part_Number" "01550900DR")
+   (gate
+    (symbol "01550900DR")
+    (pin "1" 1 PS)
+    (pin "2" 2 PS)
+   )
+  )
+  (symbol "01550900DR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 500 50) (pt 500 -50) (pt 200 -50) (pt 200 50) (closed))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 0) (pt 500 0))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 700 0) (rot 0) (mir X) (visible true))
+    (name (pt 0 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 0 10) (rot 0) (just BOTTOM LEFT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "01550900DR"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.865 2.515)
+      (pt 4.865 2.515)
+      (pt 4.865 -2.515)
+      (pt -4.865 -2.515)
+      (pt -4.865 2.515))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.31 3.515)
+      (pt 6.31 3.515)
+      (pt 6.31 -3.515)
+      (pt -6.31 -3.515)
+      (pt -6.31 3.515))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -4.865 2.2)
+      (pt -4.865 2.515)
+      (pt 4.865 2.515)
+      (pt 4.865 2.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 4.865 -2.2)
+      (pt 4.865 -2.515)
+      (pt -4.865 -2.515)
+      (pt -4.865 -2.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -5.8 0)
+      (arc (pt -5.800 0.000) (pt -5.800 -0.050) (pt -5.700 0.050) (start 180.0) (sweep 180.0))
+      (pt -5.7 0)
+      (arc (pt -5.700 0.000) (pt -5.800 -0.050) (pt -5.700 0.050) (start 180.0) (sweep .0))
+      (pt -5.8 0))))
+   (leg 1 (pt -3.190 0.000) (padstack 0))
+   (leg 2 (pt 3.190 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 3.810 4.240 0 0 0.000))
+   )
+   (model "01550900DR.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)
