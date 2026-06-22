@@ -1,0 +1,80 @@
+*PADS-LIBRARY-PART-TYPES-V9*
+
+MC33FS8530A1ES MC33FS8530A1ES I ANA 9 1 0 0 0
+TIMESTAMP 2025.12.27.19.38.10
+"Manufacturer_Name" NXP
+"Manufacturer_Part_Number" MC33FS8530A1ES
+"Mouser Part Number" 771-MC33FS8530A1ES
+"Mouser Price/Stock" https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/MC33FS8530A1ES?qs=9r4v7xj2Lnk7RA512yskfA%3D%3D
+"Arrow Part Number" 
+"Arrow Price/Stock" 
+"Description" Power Management Specialized - PMIC Safety power management IC, QFN56
+"Datasheet Link" https://www.mouser.cn/datasheet/2/302/PB_FS84_FS85C-1947521.pdf
+"Geometry.Height" 1mm
+GATE 1 61 0
+MC33FS8530A1ES
+1 0 U WAKE2_
+2 0 U N/C__1
+3 0 U BUCK3_INQ_
+4 0 U VDDI2C_
+5 0 U BOOST_LS_
+6 0 U BUCK3_IN_
+7 0 U BUCK3_SW_
+8 0 U DBG_
+9 0 U BUCK3_FB_
+10 0 U SCL_
+11 0 U SDA_
+12 0 U VMON4_
+13 0 U VMON3_
+14 0 U FS0B_
+15 0 U VMON2_
+16 0 U VMON1_
+17 0 U VCOREMON_
+18 0 U PGOOD_
+19 0 U RSTB_
+20 0 U FIN_
+21 0 U GNDFS_
+22 0 U GND_
+23 0 U VDDIO_
+24 0 U FOUT_
+25 0 U MISO_
+26 0 U MOSI_
+27 0 U SCLK_
+28 0 U CSB_
+29 0 U AMUX_
+30 0 U FCCU2_
+31 0 U FCCU1_
+32 0 U BUCK2_FB_
+33 0 U INTB_
+34 0 U BUCK2_SW_
+35 0 U BUCK2_IN_
+36 0 U BUCK1_IN_
+37 0 U BUCK1_SW_
+38 0 U PSYNC_
+39 0 U BUCK1_FB_
+40 0 U ERRMON_
+41 0 U PRE_COMP_
+42 0 U PRE_CSP_
+43 0 U PRE_GLS_
+44 0 U PRE_SW_
+45 0 U PRE_GHS_
+46 0 U PRE_BOOT_
+47 0 U VBOS_
+48 0 U PRE_FB_
+49 0 U WAKE1_
+50 0 U VSUP1_
+51 0 U VSUP2_
+52 0 U N/C__2
+53 0 U VBOOST_
+54 0 U LDO2_
+55 0 U LDO1_
+56 0 U LDO1_IN_
+57 0 U GND_1
+58 0 U GND_2
+59 0 U GND_3
+60 0 U GND_4
+61 0 U GND_5
+
+*END*
+*REMARK* SamacSys ECAD Model
+12730148/1854461/2.50/61/3/Integrated Circuit

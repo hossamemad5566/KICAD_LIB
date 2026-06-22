@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESMIT_4180_A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Sumida", "ESMIT-4180/A" (!) = "", "ESMIT4180A", "Other", "851-ESMIT-4180/A", "https://www.mouser.co.uk/ProductDetail/Sumida/ESMIT-4180-A?qs=Yx5fhyb%252BnH2J%2FiILZQpWMg%3D%3D", "Pulse Transformers", "http://products.sumida.com/products/pdf/CBM5D33(ESMIT4180).pdf", "3.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Sumida
+PartNumber=ESMIT-4180/A
+PartCategory=Transformer
+PackageCategory=Other
+PinCount=4
+Version=1.3
+Released=2019-12-14 20:12:59
+Downloaded=2026-01-02 02:25:39
+3D=Y

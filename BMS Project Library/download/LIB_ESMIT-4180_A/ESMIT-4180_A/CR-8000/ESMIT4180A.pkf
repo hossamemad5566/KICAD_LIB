@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ESMIT4180A"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ESMIT4180A")
+        (spec "default")
+    )
+)

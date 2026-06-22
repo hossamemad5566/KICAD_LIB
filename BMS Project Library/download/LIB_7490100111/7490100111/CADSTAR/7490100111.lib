@@ -1,0 +1,16 @@
+.7490100111 :1 ;Audio Transformers / Signal Transformers 10/100 Base-T SMT Transformer 1 Port
+"7490100111"
+*STM T
+*NGS
+*PLB 1="TD+" 2="CTD" 3="TD-" 4="NC_1" 5="NC_2" 6="RD+" 7="CRD" 8="RD-" 9="RX-" 10="CRX" 11="RX+" 12="NC_3" 13="NC_4" 14="TX-" 15="CTX" 16="TX+"
+*MXP 16
+*DFN 7490100111
+~!Mouser Part Number (710-7490100111)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/7490100111?qs=2sV1BwmkawTzYJbYKh1aHA%3D%3D)
+~!Manufacturer_Name (Wurth Elektronik)
+~!Manufacturer_Part_Number (7490100111)
+~!Link Datasheet (https://www.we-online.com/katalog/datasheet/7490100111.pdf)
+~!Height (5.33mm)
+~!3D_Model (7490100111)
+"7490100111"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 

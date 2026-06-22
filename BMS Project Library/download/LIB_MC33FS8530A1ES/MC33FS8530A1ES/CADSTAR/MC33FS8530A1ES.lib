@@ -1,0 +1,19 @@
+.MC33FS8530A1ES :1 ;Power Management Specialized - PMIC Safety power management IC, QFN56
+MC33FS8530A1ES
+*STM IC
+*NGS
+*PLB 1="WAKE2 " 2="N/C _1" 3="BUCK3_INQ " 4="VDDI2C " 5="BOOST_LS " 6="BUCK3_IN " 7="BUCK3_SW " 8="DBG " 9="BUCK3_FB " 10="SCL " 11="SDA " 12="VMON4 " 13="VMON3 " 14="FS0B " 15="VMON2 " 16="VMON1 " 17="VCOREMON " 18="PGOOD " 19="RSTB " 20="FIN " 21="GNDFS " 22="GND " 23="VDDIO " 24="FOUT " 25="MISO " 26="MOSI " 27="SCLK " 28="CSB " 29="AMUX " 30="FCCU2 " 31="FCCU1 " 32="BUCK2_FB " 33="INTB " 34="BUCK2_SW " 35="BUCK2_IN " 36="BUCK1_IN " 37="BUCK1_SW " &
+38="PSYNC " 39="BUCK1_FB " 40="ERRMON " 41="PRE_COMP " 42="PRE_CSP " 43="PRE_GLS " 44="PRE_SW " 45="PRE_GHS " 46="PRE_BOOT " 47="VBOS " 48="PRE_FB " 49="WAKE1 " 50="VSUP1 " 51="VSUP2 " 52="N/C _2" 53="VBOOST " 54="LDO2 " 55="LDO1 " 56="LDO1_IN " 57="GND_1" 58="GND_2" 59="GND_3" 60="GND_4" 61="GND_5"
+*MXP 61
+*DFN MC33FS8530A1ES
+~!Manufacturer_Name (NXP)
+~!Manufacturer_Part_Number (MC33FS8530A1ES)
+~!Mouser Part Number (771-MC33FS8530A1ES)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/NXP-Semiconductors/MC33FS8530A1ES?qs=9r4v7xj2Lnk7RA512yskfA%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.cn/datasheet/2/302/PB_FS84_FS85C-1947521.pdf)
+~!Height (1mm)
+~!3D_Model (MC33FS8530A1ES)
+MC33FS8530A1ES
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 31.1!U 32.1!U 33.1!U 34.1!U 35.1!U 36.1!U 37.1!U 38.1!U 39.1!U 40.1!U 41.1!U 42.1!U 43.1!U 44.1!U 45.1!U 46.1!U 47.1!U 48.1!U 49.1!U 50.1!U 51.1!U 52.1!U 53.1!U 54.1!U 55.1!U 56.1!U 57.1!U 58.1!U 59.1!U 60.1!U 61.1!U 

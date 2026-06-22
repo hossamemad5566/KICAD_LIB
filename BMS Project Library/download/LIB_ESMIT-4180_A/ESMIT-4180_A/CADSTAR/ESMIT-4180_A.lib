@@ -1,0 +1,16 @@
+.ESMIT-4180_A :1 ;Pulse Transformers
+ESMIT4180A
+*STM T
+*NGS
+*PLB 1="PRI_1" 2="PRI_2" 3="SEC_1" 4="SEC_2"
+*MXP 4
+*DFN ESMIT-4180_A
+~!Mouser Part Number (851-ESMIT-4180/A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Sumida/ESMIT-4180-A?qs=Yx5fhyb%252BnH2J%2FiILZQpWMg%3D%3D)
+~!Manufacturer_Name (Sumida)
+~!Manufacturer_Part_Number (ESMIT-4180/A)
+~!Link Datasheet (http://products.sumida.com/products/pdf/CBM5D33(ESMIT4180).pdf)
+~!Height (3.5mm)
+~!3D_Model (ESMIT-4180_A)
+ESMIT-4180_A
+1.1!U 2.1!U 3.1!U 4.1!U 

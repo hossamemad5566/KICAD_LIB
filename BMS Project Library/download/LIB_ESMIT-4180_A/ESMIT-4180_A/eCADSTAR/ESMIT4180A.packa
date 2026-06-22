@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ESMIT-4180_A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-12-14-20:12:59)
+    (mountForm default
+        (footprintRef "ESMIT4180A")
+        (spec "System")
+    )
+)

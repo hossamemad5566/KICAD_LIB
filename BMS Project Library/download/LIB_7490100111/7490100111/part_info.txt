@@ -1,0 +1,9 @@
+Manufacturer=Würth Elektronik
+PartNumber=7490100111
+PartCategory=Transformer
+PackageCategory=Other
+PinCount=16
+Version=1.4
+Released=2022-09-28 03:25:13
+Downloaded=2026-01-24 15:50:23
+3D=Y

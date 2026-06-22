@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MC33FS8530A1ES
+D Power Management Specialized - PMIC Safety power management IC, QFN56
+K
+F https://www.mouser.cn/datasheet/2/302/PB_FS84_FS85C-1947521.pdf
+$ENDCMP
+#
+#End Doc Library
