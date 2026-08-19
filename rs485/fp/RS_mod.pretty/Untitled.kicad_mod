@@ -1,0 +1,199 @@
+(footprint "Untitled"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 2.99 -24.26 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f6f6b7b4-de32-416e-a44c-a4848e0076d0")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "LM2596"
+		(at 2.99 -23.16 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0949f568-16ec-4b0f-9daa-bfe3ddbd08fe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8cc8c9b-cfae-4c3c-8795-835b588d22a9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b418ca8-b6c0-4244-9ac3-388bc531d55b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start 0 -20.6)
+		(end 43.4 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "23177554-0dcb-4cba-9105-b84a7eceed4e")
+	)
+	(fp_text user "IN-"
+		(at -0.5 -1 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e05974fb-fd52-4e54-b7fd-4bc82f2d9247")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "IN+"
+		(at -0.25 -18 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0c6247a8-d9dd-4f64-bdd6-d97122de29cc")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 2.99 -21.86 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "566e4b7d-f47f-462d-bc62-6aed0068e4ca")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(fp_text user "LM2596"
+		(at 3.5 -8.85 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d39fc748-5693-4302-bb2b-c421c477fdba")
+		(effects
+			(font
+				(size 3 6)
+				(thickness 4)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "OUT+"
+		(at 44.5 -17.75 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "3f08ced9-7071-4f33-853c-5f89d617ebfa")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "OUT-"
+		(at 44.75 -0.5 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7861b6b2-0c38-4b63-a7dd-5589af57b865")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 1.9 -18.7)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "5e24a320-599b-413a-88c1-4f506547d224")
+	)
+	(pad "2" thru_hole roundrect
+		(at 1.9 -1.9)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "258aae91-2a73-4071-ad8c-51556c625469")
+	)
+	(pad "3" thru_hole roundrect
+		(at 41.5 -18.7)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "a568cbf6-3978-413d-83b8-827b0b935471")
+	)
+	(pad "4" thru_hole roundrect
+		(at 41.5 -1.9)
+		(size 3 3)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.15)
+		(uuid "1c740a1a-8991-443a-9027-49a519f10fb2")
+	)
+	(embedded_fonts no)
+	(model "D:/kicad/KICAD_LIB/rs485/download/lm2596.step"
+		(offset
+			(xyz 0 20.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 90)
+		)
+	)
+)
