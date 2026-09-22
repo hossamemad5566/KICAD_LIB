@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CR8349-2500-N
+D CURR SENSE XFMR 75A T/H
+K
+F https://www.crmagnetics.com/Assets/ProductPDFs/CR8300%20Series.pdf
+$ENDCMP
+#
+#End Doc Library
