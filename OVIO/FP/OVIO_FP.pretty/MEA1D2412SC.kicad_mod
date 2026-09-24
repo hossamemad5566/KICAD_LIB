@@ -1,0 +1,238 @@
+(footprint "MEA1D2412SC"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "MEA1D2412SC-2")
+	(tags "Power Supply")
+	(property "Reference" "PS**"
+		(at 7.82 1.87 0)
+		(layer "F.SilkS")
+		(uuid "f0532c2f-56ac-4674-a785-6789c926308a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "MEA1D2412SC"
+		(at 7.82 1.87 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4169970e-4624-416f-8806-a15ff66089ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a86df605-4329-424f-8e7a-ce05d174a8ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1ff600d-fb63-4b7e-8406-b8572db76669")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.93 -1.13)
+		(end 17.57 -1.13)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "56869ddc-d3b3-479a-a33f-c7b76e5efb27")
+	)
+	(fp_line
+		(start -1.93 4.87)
+		(end -1.93 -1.13)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6f6760e2-cf9a-47ce-bb7e-7714a4a34f09")
+	)
+	(fp_line
+		(start 17.57 -1.13)
+		(end 17.57 4.87)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5a632aa1-0c56-42a5-bebf-7ed51fd47d51")
+	)
+	(fp_line
+		(start 17.57 4.87)
+		(end -1.93 4.87)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c293651f-2738-4dff-8dbe-02b07e090990")
+	)
+	(fp_line
+		(start -2.93 -2.13)
+		(end 18.57 -2.13)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "695273b7-c02c-45ee-b055-63320002557d")
+	)
+	(fp_line
+		(start -2.93 5.87)
+		(end -2.93 -2.13)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d622223f-8eb6-4ac9-828b-54026db2cecf")
+	)
+	(fp_line
+		(start 18.57 -2.13)
+		(end 18.57 5.87)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "aa629241-99f0-4b39-a194-43c595b109c3")
+	)
+	(fp_line
+		(start 18.57 5.87)
+		(end -2.93 5.87)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6d1b8254-db16-4009-86e6-cbb2ff9a9994")
+	)
+	(fp_line
+		(start -1.93 -1.13)
+		(end 17.57 -1.13)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c06452d7-5ffb-4ae4-9ecd-5175c62036f7")
+	)
+	(fp_line
+		(start -1.93 4.87)
+		(end -1.93 -1.13)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6c2e3fa1-9bdc-4615-b991-b7991d478f43")
+	)
+	(fp_line
+		(start 17.57 -1.13)
+		(end 17.57 4.87)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0a58f201-327a-4943-977e-d639d0bf8552")
+	)
+	(fp_line
+		(start 17.57 4.87)
+		(end -1.93 4.87)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e159efb8-c3d6-4a9c-895a-468c24fcd638")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 7.82 1.87 0)
+		(layer "F.Fab")
+		(uuid "ae6cb02b-5bce-42ae-8ac4-f624e128ca88")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 1.725 1.725)
+		(drill 1.15)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "028f827a-1013-4093-948c-06555e9510b6")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 0)
+		(size 1.725 1.725)
+		(drill 1.15)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7128aec5-45c4-4f95-8382-9a525c2c7f52")
+	)
+	(pad "4" thru_hole circle
+		(at 7.62 0)
+		(size 1.725 1.725)
+		(drill 1.15)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f71f70ae-b8e0-4c96-b94e-37331d59dc85")
+	)
+	(pad "5" thru_hole circle
+		(at 10.16 0)
+		(size 1.725 1.725)
+		(drill 1.15)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "e804da9b-9d1b-40a7-9693-8c02d668788b")
+	)
+	(pad "6" thru_hole circle
+		(at 12.7 0)
+		(size 1.725 1.725)
+		(drill 1.15)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "2e9f8be7-ed54-42fb-a97c-c151917c449e")
+	)
+	(embedded_fonts no)
+	(model "D:/kicad/KICAD_LIB/OVIO/Download/MEA1D2412SC/3D/MEA1D2412SC.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

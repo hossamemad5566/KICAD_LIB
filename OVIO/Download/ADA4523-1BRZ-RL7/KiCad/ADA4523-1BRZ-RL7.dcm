@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADA4523-1BRZ-RL7
+D 36 V, Low Noise, Zero Drift Op Amp?
+K
+F https://www.analog.com/ADA4523-1/datasheet
+$ENDCMP
+#
+#End Doc Library
